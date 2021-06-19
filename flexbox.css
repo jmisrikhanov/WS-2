@@ -1,0 +1,20 @@
+.borderbox{
+    display: flex;
+    justify-content: center;
+    border: 7px solid blue;
+    padding: 110px 10px;
+    width: 80%;
+    
+}
+.description{
+    padding: 30px;
+}
+img{
+    width: 150px;
+    height: 200px;
+    margin: 30px;
+}
+
+h1{
+    font-size: 35px;
+}
